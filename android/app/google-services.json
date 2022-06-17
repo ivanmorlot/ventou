@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "367842957342",
+    "project_id": "ventou-project",
+    "storage_bucket": "ventou-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367842957342:android:44f0ab23bb5d9db32b760f",
+        "android_client_info": {
+          "package_name": "com.example.ventou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367842957342-80psqe00g7e6v5q7ndv1430fqpj21v8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN0ojdNj7lGwdpa6f_KvHCiHZkmMqQsL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367842957342-80psqe00g7e6v5q7ndv1430fqpj21v8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367842957342-4ugndfjt27rc9u1p9a0ifop0ot1o084b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ventou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
